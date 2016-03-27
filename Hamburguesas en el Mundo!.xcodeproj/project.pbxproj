@@ -12,6 +12,8 @@
 		A2E5EC8F1CA7927700EDEEEC /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = A2E5EC8D1CA7927700EDEEEC /* Main.storyboard */; };
 		A2E5EC911CA7927700EDEEEC /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = A2E5EC901CA7927700EDEEEC /* Assets.xcassets */; };
 		A2E5EC941CA7927700EDEEEC /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = A2E5EC921CA7927700EDEEEC /* LaunchScreen.storyboard */; };
+		A2E5EC9C1CA792A100EDEEEC /* Datos.swift in Sources */ = {isa = PBXBuildFile; fileRef = A2E5EC9B1CA792A100EDEEEC /* Datos.swift */; };
+		A2E5EC9E1CA795D800EDEEEC /* ColoresStruct.swift in Sources */ = {isa = PBXBuildFile; fileRef = A2E5EC9D1CA795D800EDEEEC /* ColoresStruct.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -22,6 +24,8 @@
 		A2E5EC901CA7927700EDEEEC /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		A2E5EC931CA7927700EDEEEC /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		A2E5EC951CA7927700EDEEEC /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		A2E5EC9B1CA792A100EDEEEC /* Datos.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = Datos.swift; sourceTree = "<group>"; };
+		A2E5EC9D1CA795D800EDEEEC /* ColoresStruct.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = ColoresStruct.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -56,6 +60,8 @@
 			children = (
 				A2E5EC891CA7927700EDEEEC /* AppDelegate.swift */,
 				A2E5EC8B1CA7927700EDEEEC /* ViewController.swift */,
+				A2E5EC9B1CA792A100EDEEEC /* Datos.swift */,
+				A2E5EC9D1CA795D800EDEEEC /* ColoresStruct.swift */,
 				A2E5EC8D1CA7927700EDEEEC /* Main.storyboard */,
 				A2E5EC901CA7927700EDEEEC /* Assets.xcassets */,
 				A2E5EC921CA7927700EDEEEC /* LaunchScreen.storyboard */,
@@ -137,6 +143,8 @@
 			buildActionMask = 2147483647;
 			files = (
 				A2E5EC8C1CA7927700EDEEEC /* ViewController.swift in Sources */,
+				A2E5EC9C1CA792A100EDEEEC /* Datos.swift in Sources */,
+				A2E5EC9E1CA795D800EDEEEC /* ColoresStruct.swift in Sources */,
 				A2E5EC8A1CA7927700EDEEEC /* AppDelegate.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
