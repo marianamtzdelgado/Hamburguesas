@@ -1,11 +1,3 @@
-//
-//  AppDelegate.swift
-//  Hamburguesas en el Mundo!
-//
-//  Created by Mariana Martínez Delgado on 26/03/16.
-//  Copyright © 2016 MMD. All rights reserved.
-//
-
 import UIKit
 
 @UIApplicationMain
